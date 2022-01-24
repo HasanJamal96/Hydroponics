@@ -1,0 +1,88 @@
+INPUTS:
+  DHT:
+    Sensor1:
+      ID: 4
+      Name: 'Air Temperature/Humidity'
+      Type: 'DHT22'
+      Pin: 17
+      Temp_min: 30
+      Temp_max: 40
+      Humi_min: 45
+      Humi_max: 50
+      Dew_min: 75
+      Dew_max: 89
+  DS:
+    Sensor1:
+      ID: 6
+      Name: 'DS18B20'
+      Addr: '12345678'
+      min: 34
+      max: 40
+  TSL2591:
+    Sensor1:
+      ID: 5
+      Name: 'Light Intensity'
+      Addr: 41
+      min: 9
+      max: 12
+  EZO-PH:
+    Sensor1:
+      ID: 7
+      Name: 'Potential of Hydrogen'
+      Addr: 99
+      min: 6
+      max: 8
+  EZO-EC:
+    Sensor1:
+      ID: 9
+      Name: 'Electrical Conductivity'
+      Addr: 100
+      min: 6
+      max: 8
+  EZO-DO:
+    Sensor1:
+      ID: 8
+      Name: 'Dissolved Oxygen'
+      Addr: 97
+      min: 6
+      max: 8
+  EZO-CO2:
+    Sensor1:
+      ID: 10
+      Name: 'Carbon-dioxide'
+      Addr: 105
+      min: 6
+      max: 8
+  FLOW:
+    Sensor1:
+      ID: 11
+      Name: 'Water Flow'
+      Pin: 13
+      min: 6
+      max: 8
+
+OUTPUTS:
+  out1:
+    Type: 'pump'
+    Interface: 'i2c'
+    ID: 12
+    Addr: 64
+    Pump_Number: 1
+  out2:
+    Type: 'Relay'
+    Interface: 'gpio'
+    ID: 13
+    Pin: 19
+    Active: True
+
+TRIGGERS:
+  T1:
+    SensorID: 6
+    OutputID: 12
+    min: 21.88
+    max: 26.1
+  T2:
+    SensorID: 6
+    OutputID: 13
+    min: 21.88
+    max: 26.1
