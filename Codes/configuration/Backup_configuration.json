@@ -1,53 +1,5 @@
 {
     "success": 1,
     "sensor": [
-        {
-            "sensor_id": "26",
-            "name": "DHT",
-            "interface": "gpio",
-            "interface_description": "17",
-            "trigger": "[{\"label\":\"Temperature\",\"min-value\":\"22\",\"unit\":\"C\", \"max-val\":\"25\" ,\"unit\":\"C\" },{\"label\":\"Humidity\",\"min-value\":\"45\",\"unit\":\"rh%\", \"max-val\":\"56\" ,\"unit\":\"rh%\" },{\"label\":\"Dew Point\",\"min-value\":\"75\",\"unit\":\"C Td\", \"max-val\":\"87\" ,\"unit\":\"C Td\" }]",
-            "output": null
-        },
-        {
-            "sensor_id": "27",
-            "name": "EZO-PH",
-            "interface": "i2c",
-            "interface_description": "99",
-            "trigger": "[{\"label\":\"ph\",\"min-value\":\"6\",\"unit\":\" \", \"max-val\":\"9\" ,\"unit\":\" \" }]",
-            "output": null
-        },
-        {
-            "sensor_id": "28",
-            "name": "EZO-DO",
-            "interface": "i2c",
-            "interface_description": "97",
-            "trigger": "[{\"label\":\"do\",\"min-value\":\"123\",\"unit\":\"mg/L\", \"max-val\":\"156\" ,\"unit\":\"mg/L\" }]",
-            "output": ""
-        },
-        {
-            "sensor_id": "29",
-            "name": "EZO-CO2",
-            "interface": "i2c",
-            "interface_description": "105",
-            "trigger": "[{\"label\":\"co2\",\"min-value\":\"456\",\"unit\":\"ppm\", \"max-val\":\"489\" ,\"unit\":\"ppm\" }]",
-            "output": ""
-        },
-        {
-            "sensor_id": "37",
-            "name": "EZO-EC",
-            "interface": "i2c",
-            "interface_description": "100",
-            "trigger": "[{\"label\":\"ec\",\"min-value\":\"100\",\"unit\":\"uS/cm\", \"max-val\":\"400\" ,\"unit\":\"uS/cm\" }]",
-            "output": null
-        },
-        {
-            "sensor_id": "38",
-            "name": "DS18B20",
-            "interface": "gpio",
-            "interface_description": "000000033034",
-            "trigger": "[{\"label\":\"Temperature\",\"min-value\":\"15\",\"unit\":\"C\", \"max-val\":\"22\" ,\"unit\":\"C\" }]",
-            "output": ""
-        }
     ]
 }

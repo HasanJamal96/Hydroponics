@@ -1,0 +1,75 @@
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/assets/custom-styles/general-custom-styles.php onschedule_edge_design_styles function */
+.edgtf-boxed .edgtf-wrapper { background-attachment: fixed;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/assets/custom-styles/general-custom-styles.php onschedule_edge_content_styles function */
+.edgtf-content .edgtf-content-inner > .edgtf-full-width > .edgtf-full-width-inner { padding-top: 40px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/assets/custom-styles/general-custom-styles.php onschedule_edge_content_styles function */
+.edgtf-content .edgtf-content-inner > .edgtf-container > .edgtf-container-inner { padding-top: 40px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_text_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz { color: #8d8d8d;background-color: rgba(255, 255, 255, 1);border-color: rgba(255, 255, 255, 1);padding-top: 16px;padding-bottom: 16px;padding-left: 27px;margin-bottom: 14px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_focus_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_1 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_1 input.wpcf7-form-control.wpcf7-quiz:focus { background-color: rgba(226, 226, 226, 1);border-color: rgba(226, 226, 226, 1);}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_button_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit { height: 54px;line-height: 54px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_button_hover_styles_1 function */
+.cf7_custom_style_1 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { color: #ffffff;background-color: rgba(51, 51, 51, 1);border-color: rgba(255, 255, 255, 0);}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea { height: 142px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_text_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz { color: #8d8d8d;font-family: Raleway;font-size: 13px;background-color: rgba(255, 255, 255, 1);border-color: rgba(229, 229, 229, 1);border-width: 1px;padding-top: 16px;padding-bottom: 16px;padding-left: 27px;margin-bottom: 14px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus::-webkit-input-placeholder, .cf7_custom_style_2 textarea:focus::-webkit-input-placeholder { color: #8d8d8d;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus:-moz-placeholder, .cf7_custom_style_2 textarea:focus:-moz-placeholder { color: #8d8d8d;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus::-moz-placeholder, .cf7_custom_style_2 textarea:focus::-moz-placeholder { color: #8d8d8d;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input:focus:-ms-input-placeholder, .cf7_custom_style_2 textarea:focus:-ms-input-placeholder { color: #8d8d8d;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_focus_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_2 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_2 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_2 input.wpcf7-form-control.wpcf7-quiz:focus { color: #8d8d8d;background-color: rgba(247, 247, 247, 1);border-color: rgba(229, 229, 229, 1);}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_button_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit { height: 54px;line-height: 54px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_button_hover_styles_2 function */
+.cf7_custom_style_2 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(51, 51, 51, 1);border-color: rgba(255, 255, 255, 0);}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea { height: 149px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_text_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { font-family: Roboto;font-size: 13px;line-height: 30px;background-color: rgba(255, 255, 255, 1);padding-top: 4px;padding-right: 130px;padding-bottom: 4px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_focus_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz:focus { background-color: rgba(247, 247, 247, 1);border-color: rgba(226, 226, 226, 1);}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_button_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit { font-family: Roboto;font-size: 10px;font-weight: 400;height: 40px;line-height: 40px;padding-left: 25px;padding-right: 25px;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/contactform7/custom-styles/contact-form.php onschedule_edge_contact_form7_button_hover_styles_3 function */
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-submit:not([disabled]):hover { background-color: rgba(85, 85, 85, 1);}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/header/custom-styles/mobile-header.php onschedule_edge_mobile_navigation_styles function */
+.edgtf-mobile-header .edgtf-mobile-nav .edgtf-grid > ul > li > a, .edgtf-mobile-header .edgtf-mobile-nav .edgtf-grid > ul > li > h5 { font-family: ;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/header/custom-styles/mobile-header.php onschedule_edge_mobile_navigation_styles function */
+.edgtf-mobile-header .edgtf-mobile-nav ul ul li a, .edgtf-mobile-header .edgtf-mobile-nav ul ul li h5 { font-family: ;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/sidearea/custom-styles/sidearea.php onschedule_edge_side_area_styles function */
+.edgtf-side-menu { text-align: center;}
+
+/* generated in /hermes/bosnacweb01/bosnacweb01at/b1879/dom.polivaoren15544/wp_site_1617109317/wp-content/themes/onschedule/framework/modules/sidearea/custom-styles/sidearea.php onschedule_edge_side_area_styles function */
+.edgtf-side-menu .widget img { margin: 0 auto;}
+
