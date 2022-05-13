@@ -5,7 +5,7 @@ from threading import Thread
 from WebComunication import API
 import base64
 
-POST_TIMELAPSE_API = "https://ebmacshost.com/Hydroponics/api/uploadtimelapes"
+POST_TIMELAPSE_API = ""
 
 headers = {'User-Agent': ''}
 
