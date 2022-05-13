@@ -19,9 +19,9 @@ from Camera import CameraModule
 
 
 # web globals
-POST_API = "https://ebmacshost.com/Hydroponics/index.php/api/postsensorvalue"
-GET_API = "https://ebmacshost.com/Hydroponics/api/readSesnorName"
-INTERRUPTED_SENSOR_API = "https://ebmacshost.com/Hydroponics/api/readintruptedSesnorName"
+POST_API = ""
+GET_API = ""
+INTERRUPTED_SENSOR_API = ""
 
 headers = {'User-Agent': ''}
 
